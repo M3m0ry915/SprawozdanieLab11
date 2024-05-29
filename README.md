@@ -11,7 +11,7 @@ Teraz możemy przejść do:
 * http://localhost:4001 , aby zobaczyć stronę startową PHP (phpinfo).  
 * http://localhost:6001 , aby uzyskać dostęp do phpMyAdmin.  
 Należy użyć <ins>root</ins> jako użytkownika oraz <ins>example</ins> jako hasła.  
-Dołączony został również zrzut ekranu prezentujący założenie testowej bazy danych o nazwie <ins>test_docker</ins>
+Dołączony został również zrzut ekranu prezentujący założenie testowej bazy danych o nazwie <ins>test_docker</ins>.
   
 Aby sprawdzić status kontenerów wykonujemy polecenie:
   
